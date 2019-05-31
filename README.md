@@ -3,14 +3,18 @@
 **Français**
 
 ceci est le l'éditeur d'objet du projet Keun Geimdeul.
+
 Cet outil est codé en Rust et un fichier XML glade est utuliser pour l'interface
+
 l'outil est sous licences LGPL3
 
 
 **English**
 
 this is the content editor of the Keun Geimdeul project.
+
 this tool is made in Rust and it use a XML glade file for the interface
+
 the tool is in LGPL3 licence
 
 
